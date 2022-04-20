@@ -2,8 +2,7 @@
 //  TodoMaster2UITests.swift
 //  TodoMaster2UITests
 //
-//  Created by Chakshan Kothakota on 4/19/22.
-//
+
 
 import XCTest
 

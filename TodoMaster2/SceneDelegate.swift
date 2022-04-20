@@ -2,8 +2,7 @@
 //  SceneDelegate.swift
 //  TodoMaster2
 //
-//  Created by Chakshan Kothakota on 4/19/22.
-//
+
 
 import UIKit
 

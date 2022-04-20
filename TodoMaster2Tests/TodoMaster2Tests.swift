@@ -2,8 +2,7 @@
 //  TodoMaster2Tests.swift
 //  TodoMaster2Tests
 //
-//  Created by Chakshan Kothakota on 4/19/22.
-//
+
 
 import XCTest
 @testable import TodoMaster2
