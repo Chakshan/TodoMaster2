@@ -97,7 +97,7 @@ class ViewController: UIViewController {
     
 }
 
-// The code for the table view data source and delegate was written
+// The base code for the table view data source and delegate was written
 // with the guidance of a YouTube video published by iOS Academy.
 // Link to the video: https://www.youtube.com/watch?v=C36sb5sc6lE
 
